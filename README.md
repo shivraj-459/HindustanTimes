@@ -13,7 +13,7 @@
 
 ## Links and Instalations
 
-- #### Clone this repository [ link ](https://github.com/mrFarooque/HindustanNews) and host it in your local sever using index.html
+- #### Clone this repository [ link ](https://github.com/shivraj-459/HindustanTimes) and host it in your local sever using index.html
 - #### Netlify [ link ](https://hindustan-times-clone-project.netlify.app/)
 
 ## Snapshots
