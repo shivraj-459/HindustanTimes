@@ -11,7 +11,7 @@
 - #### JavaScript
 - #### Git
 
-## Links and Instalations
+## Links and Installations
 
 - #### Clone this repository [ link ](https://github.com/shivraj-459/HindustanTimes) and host it in your local sever using index.html
 - #### Netlify [ link ](https://hindustan-times-clone-project.netlify.app/)
